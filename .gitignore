@@ -2,6 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/unisontech.api/.vs/unisontech.api
-/unisontech.api/unisontech.api/obj
-/unisontech.api/unisontech.api/Properties
+/.vs
+/unisontech.api/obj
