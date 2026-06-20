@@ -1,0 +1,6 @@
+@unisontech.api_HostAddress = http://localhost:5064
+
+GET {{unisontech.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
