@@ -4,3 +4,8 @@
 
 /.vs
 /unisontech.api/obj
+/unisontech.api/bin/Debug/net8.0
+/unisontech.api/library.db
+/unisontech.api/Migrations
+/unisontech.api/library.db-shm
+/unisontech.api/library.db-wal
